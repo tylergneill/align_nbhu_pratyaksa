@@ -10,10 +10,10 @@ Later, I myself scanned the Joshi 1986 book to PDF, manually cropped out the foo
 
 Comparing the two, I also found instances where improper editing of the 1986 book resulted in loss of potentially important information from the 1979. I therefore decided with work with both.
 
-To ajudicate differences, I separate the content of each of the two works based on the paragraph division of 1986 book, and use the diff-like function of BBEdit to reconsile differences between the two, one paragraph at a time.
+To adjudicate differences, I separate the content of each of the two works based on the paragraph division of 1986 book, and use the diff-like function of BBEdit to reconcile differences between the two, one paragraph at a time.
 
 The NBhū e-text was obtained anonymously through peers. I believe it may stem from Shodo Yamakami's work, but certainly only after being filtered through the work of others, I think Ernst Prets and Sylvia Stark. I've been slowly improving this and host it now on my pramana-NLP project (see separate repo).
 
-Once the English has been reconsiled (although not perfectly proofread, so mistakes do definitely stilll remain), I compare it to the Sanskrit, highlight in bold the parts of the English that directly correspond with Sanskrit, and also record a few notes on the side (some preliminary translation material included). The spreadsheet can be sorted either according to the order of the Sanskrit or Joshi's English presentation.
+Once the English has been reconciled (although not perfectly proofread, so mistakes do definitely stilll remain), I compare it to the Sanskrit, highlight in bold the parts of the English that directly correspond with Sanskrit, and also record a few notes on the side (some preliminary translation material included). The spreadsheet can be sorted either according to the order of the Sanskrit or Joshi's English presentation.
 
 Eventually, I would like to use this table, plus my dissertation work on NBhū 104–154 (the part missing in Joshi) as a basis for my own full English translation of the Pratyakṣa chapter.

@@ -1,6 +1,6 @@
 # align_nbhu_pratyaksa
 
-This is a paragraph-level alignment of Joshi English translation of much of the Nyāyabhūṣaṇa Pratyakṣapariccheda (in his 1986 book, “A Critical Study of the Prayakṣa Pariccheda of Bhāsarvajña's Nyāyabhūṣaṇa”) to the Sanskrit text (edition of Yogīndrānanda 1968), in simple tabular form.
+This is a paragraph-level alignment of Joshi's English translation of much of the Nyāyabhūṣaṇa Pratyakṣapariccheda (in his 1986 book, “A Critical Study of the Prayakṣa Pariccheda of Bhāsarvajña's Nyāyabhūṣaṇa”) to the Sanskrit text (edition of Yogīndrānanda 1968), in simple tabular form.
 
 So far (Dec 2021), I've done chapters 3–7 out of the relevant chapters 3–14.
 
